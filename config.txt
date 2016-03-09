@@ -1,0 +1,57 @@
+############## QWE (Quoridor) Java Game Client Config File #################
+############################ SET THIS FIRST ################################
+
+# Your API key
+# Get one at https://games.cs.rit.edu/quoridorapi/getapikey/
+API_KEY 64879f7440f0cd4e164
+
+########################### MAIN GAME CONFIG ###############################
+
+# List of player modules separated by commas (no spaces between!).
+# The number of modules listed here specifies the number of players in the game
+# To play via the GUI, use Human.
+PLAYER_MODULES DOMINOS,BeatMePlayer
+
+# Does the graphical UI display?
+UI False
+
+# Enable/disable automatic gameplay
+# True = automatic - moves are made based on the animation speed
+# False = manual - enter advances each move
+AUTO_PLAY True
+
+# Used to check if player 1 is generating all possible valid moves.
+# This is used in part 2 to determine your functionality grade.
+REFEREE True
+
+# Animation speed, in milliseconds (lower is faster)
+# Below 300 disables animations
+# Acceptable values: 1-3000
+ANIMATION_SPEED 301
+
+# Should the game log be printed during gameplay?
+FILE_LOGGING True
+
+# Should the game log be printed during gameplay?
+STDOUT_LOGGING True
+
+# Moves to make before players get control (abide to PlayerMove constructs)
+#PRE_MOVE PlayerMove(1,False,7,3,7,5)
+# 2 player game w/ alleys
+
+
+################################# ADVANCED #################################
+
+# Wall count dictionary for 1, 2 and 4 players
+NUM_WALLS {1:10, 2:10, 4:5}
+
+# This is the time limit, in seconds, that your player has to successful return
+# a move when it is your turn.  If this limit is exceeded, your player is
+# invalidated.  If you are debugging, increase this number greatly.
+PLAYER_MOVE_LIMIT 10.0
+
+# Web service domain (do not change)
+WEB_SERVICE_DOMAIN games.cs.rit.edu/quoridorapi
+
+# Secure? (do not change)
+HTTPS True

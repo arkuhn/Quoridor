@@ -1,0 +1,48 @@
+04-28 15:28:27 Engine Quoridor Java Client v1.0.10 by RIT CS Department starting up
+04-28 15:28:27 Engine Loading player DOMINOS
+04-28 15:28:27 Engine Loading player EasyPlayer
+04-28 15:28:27 Engine Loaded 2 players
+04-28 15:28:30 Engine Calling init() for player 1
+04-28 15:28:30 Engine Calling init() for player 2
+04-28 15:28:30 Model  GUI accessible at:
+https://games.cs.rit.edu/quoridorapi/gameview/animations.500/public.96e90415cf2198dfe6798cc77b7248f748036e14553fdf5de69bf/gameid.21939/partone.0
+04-28 15:28:30 Engine Checking all possible moves for player 1
+04-28 15:28:30 Engine All possible valid piece moves verified.
+04-28 15:28:30 Engine All possible valid wall moves verified.
+04-28 15:28:30 Engine Processing move #1
+04-28 15:28:30 Engine Getting preMove from list
+04-28 15:28:30 Engine Validating move: PlayerMove [Piece: start=[8, 4], end=[7, 4], playerId=1]
+04-28 15:28:32 Engine Move validated. Notifying other players
+04-28 15:28:32 Engine Notifying player 1 of last move
+04-28 15:28:32 Engine Notifying player 2 of last move
+04-28 15:28:32 Engine Finished processing player 1's move
+04-28 15:28:32 Engine Checking all possible moves for player 1
+04-28 15:28:32 Engine All possible valid piece moves verified.
+04-28 15:28:32 Engine All possible valid wall moves verified.
+04-28 15:28:32 Engine Processing move #2
+04-28 15:28:32 Engine Getting preMove from list
+04-28 15:28:32 Engine Validating move: PlayerMove [Piece: start=[0, 4], end=[1, 4], playerId=2]
+04-28 15:28:33 Engine Move validated. Notifying other players
+04-28 15:28:33 Engine Notifying player 1 of last move
+04-28 15:28:33 Engine Notifying player 2 of last move
+04-28 15:28:33 Engine Finished processing player 2's move
+04-28 15:28:33 Engine Checking all possible moves for player 1
+04-28 15:28:33 Engine All possible valid piece moves verified.
+04-28 15:28:33 Engine All possible valid wall moves verified.
+04-28 15:28:33 Engine Processing move #3
+04-28 15:28:33 Engine Getting preMove from list
+04-28 15:28:33 Engine Validating move: PlayerMove [Piece: start=[4, 0], end=[4, 1], playerId=3]
+04-28 15:28:34 Model  Error: Not your turn to move
+04-28 15:28:34 Engine Invalidating player 1
+04-28 15:28:34 Engine Notifying player 2 that player 1 was invalidated
+04-28 15:28:34 Engine Finished processing player 1's move
+04-28 15:28:34 Engine Processing move #4
+04-28 15:28:34 Engine Getting preMove from list
+04-28 15:28:34 Engine Validating move: PlayerMove [Piece: start=[4, 8], end=[4, 7], playerId=4]
+04-28 15:28:35 Model  Error: Not your turn to move
+04-28 15:28:35 Engine Invalidating player 2
+04-28 15:28:35 Engine Finished processing player 2's move
+04-28 15:28:35 Engine Game has ended
+04-28 15:28:35 Engine Functionality grade for all possible moves: 
+	 Piece moves: 100.0%
+	 Wall moves: 100.0%

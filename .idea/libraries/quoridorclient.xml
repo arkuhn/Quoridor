@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="quoridorclient">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/quoridorclient.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

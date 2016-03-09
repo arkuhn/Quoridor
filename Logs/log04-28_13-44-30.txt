@@ -1,0 +1,9 @@
+04-28 13:44:30 Engine Quoridor Java Client v1.0.10 by RIT CS Department starting up
+04-28 13:44:30 Engine Loading player DOMINOS
+04-28 13:44:30 Engine Loading player RandomPlayer
+04-28 13:44:30 Engine Loaded 2 players
+04-28 13:44:34 Engine Calling init() for player 1
+04-28 13:44:34 Engine Calling init() for player 2
+04-28 13:44:34 Model  GUI accessible at:
+https://games.cs.rit.edu/quoridorapi/gameview/animations.500/public.5acc7f0db0ba7b964f51189c8967914e1e6b4f5e553fc6fa199c3/gameid.21096/partone.0
+04-28 13:44:34 Engine Checking all possible moves for player 1

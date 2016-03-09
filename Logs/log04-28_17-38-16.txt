@@ -1,0 +1,164 @@
+04-28 17:38:16 Engine Quoridor Java Client v1.0.10 by RIT CS Department starting up
+04-28 17:38:16 Engine Loading player DOMINOS
+04-28 17:38:16 Engine Loading player EasyPlayer
+04-28 17:38:16 Engine Loaded 2 players
+04-28 17:38:21 Engine Calling init() for player 1
+04-28 17:38:21 Engine Calling init() for player 2
+04-28 17:38:21 Model  GUI accessible at:
+https://games.cs.rit.edu/quoridorapi/gameview/animations.320/public.1b50cb4f46307cb620f6b2e789960d1d81ff1122553ffdcc8c5f5/gameid.23397/partone.0
+04-28 17:38:21 Engine Checking all possible moves for player 1
+04-28 17:38:21 Engine All possible valid piece moves verified.
+04-28 17:38:21 Engine All possible valid wall moves verified.
+04-28 17:38:21 Engine Processing move #1
+04-28 17:38:21 Engine Getting preMove from list
+04-28 17:38:21 Engine Validating move: PlayerMove [Wall: start=[7, 4], end=[9, 4], playerId=1]
+04-28 17:38:24 Engine Move validated. Notifying other players
+04-28 17:38:24 Engine Notifying player 1 of last move
+04-28 17:38:24 Engine Notifying player 2 of last move
+04-28 17:38:24 Engine Finished processing player 1's move
+04-28 17:38:24 Engine Checking all possible moves for player 1
+04-28 17:38:24 Engine All possible valid piece moves verified.
+04-28 17:38:24 Engine All possible valid wall moves verified.
+04-28 17:38:24 Engine Processing move #2
+04-28 17:38:24 Engine Getting preMove from list
+04-28 17:38:24 Engine Validating move: PlayerMove [Wall: start=[7, 5], end=[9, 5], playerId=2]
+04-28 17:38:26 Engine Move validated. Notifying other players
+04-28 17:38:26 Engine Notifying player 1 of last move
+04-28 17:38:26 Engine Notifying player 2 of last move
+04-28 17:38:26 Engine Finished processing player 2's move
+04-28 17:38:26 Engine Checking all possible moves for player 1
+04-28 17:38:26 Engine Error: The player's piece move set was incorrect.
+04-28 17:38:26 Engine Error: Missing piece moves: []
+04-28 17:38:26 Engine Error: Extra piece moves: [PlayerMove [Piece: start=[8, 4], end=[8, 3], playerId=1]]
+04-28 17:38:26 Engine Error: The player's wall move set was incorrect.
+04-28 17:38:26 Engine Error: Missing wall moves: []
+04-28 17:38:26 Engine Error: Extra wall moves: [PlayerMove [Wall: start=[7, 3], end=[7, 5], playerId=1], PlayerMove [Wall: start=[7, 4], end=[7, 6], playerId=1]]
+04-28 17:38:26 Engine Processing move #3
+04-28 17:38:26 Engine Getting preMove from list
+04-28 17:38:26 Engine Validating move: PlayerMove [Wall: start=[5, 4], end=[7, 4], playerId=1]
+04-28 17:38:28 Engine Move validated. Notifying other players
+04-28 17:38:28 Engine Notifying player 1 of last move
+04-28 17:38:28 Engine Notifying player 2 of last move
+04-28 17:38:28 Engine Finished processing player 1's move
+04-28 17:38:28 Engine Checking all possible moves for player 1
+04-28 17:38:28 Engine Error: The player's piece move set was incorrect.
+04-28 17:38:28 Engine Error: Missing piece moves: []
+04-28 17:38:28 Engine Error: Extra piece moves: [PlayerMove [Piece: start=[8, 4], end=[8, 3], playerId=1], PlayerMove [Piece: start=[8, 4], end=[8, 5], playerId=1]]
+04-28 17:38:28 Engine Error: The player's wall move set was incorrect.
+04-28 17:38:28 Engine Error: Missing wall moves: []
+04-28 17:38:28 Engine Error: Extra wall moves: [PlayerMove [Wall: start=[7, 3], end=[7, 5], playerId=1], PlayerMove [Wall: start=[7, 4], end=[7, 6], playerId=1]]
+04-28 17:38:28 Engine Processing move #4
+04-28 17:38:28 Engine Getting preMove from list
+04-28 17:38:28 Engine Validating move: PlayerMove [Wall: start=[5, 5], end=[7, 5], playerId=2]
+04-28 17:38:30 Engine Move validated. Notifying other players
+04-28 17:38:30 Engine Notifying player 1 of last move
+04-28 17:38:30 Engine Notifying player 2 of last move
+04-28 17:38:30 Engine Finished processing player 2's move
+04-28 17:38:30 Engine Checking all possible moves for player 1
+04-28 17:38:30 Engine Error: The player's piece move set was incorrect.
+04-28 17:38:30 Engine Error: Missing piece moves: []
+04-28 17:38:30 Engine Error: Extra piece moves: [PlayerMove [Piece: start=[8, 4], end=[8, 3], playerId=1], PlayerMove [Piece: start=[8, 4], end=[8, 5], playerId=1]]
+04-28 17:38:30 Engine Error: The player's wall move set was incorrect.
+04-28 17:38:30 Engine Error: Missing wall moves: []
+04-28 17:38:30 Engine Error: Extra wall moves: [PlayerMove [Wall: start=[7, 3], end=[7, 5], playerId=1], PlayerMove [Wall: start=[5, 4], end=[5, 6], playerId=1], PlayerMove [Wall: start=[7, 4], end=[7, 6], playerId=1], PlayerMove [Wall: start=[5, 3], end=[5, 5], playerId=1]]
+04-28 17:38:30 Engine Processing move #5
+04-28 17:38:30 Engine Getting preMove from list
+04-28 17:38:30 Engine Validating move: PlayerMove [Wall: start=[5, 2], end=[5, 4], playerId=1]
+04-28 17:38:33 Engine Move validated. Notifying other players
+04-28 17:38:33 Engine Notifying player 1 of last move
+04-28 17:38:33 Engine Notifying player 2 of last move
+04-28 17:38:33 Engine Finished processing player 1's move
+04-28 17:38:33 Engine Checking all possible moves for player 1
+04-28 17:38:33 Engine Error: The player's piece move set was incorrect.
+04-28 17:38:33 Engine Error: Missing piece moves: []
+04-28 17:38:33 Engine Error: Extra piece moves: [PlayerMove [Piece: start=[8, 4], end=[8, 3], playerId=1], PlayerMove [Piece: start=[8, 4], end=[8, 5], playerId=1]]
+04-28 17:38:33 Engine Error: The player's wall move set was incorrect.
+04-28 17:38:33 Engine Error: Missing wall moves: []
+04-28 17:38:33 Engine Error: Extra wall moves: [PlayerMove [Wall: start=[7, 3], end=[7, 5], playerId=1], PlayerMove [Wall: start=[5, 4], end=[5, 6], playerId=1], PlayerMove [Wall: start=[7, 4], end=[7, 6], playerId=1]]
+04-28 17:38:33 Engine Processing move #6
+04-28 17:38:33 Engine Getting preMove from list
+04-28 17:38:33 Engine Validating move: PlayerMove [Wall: start=[5, 5], end=[5, 7], playerId=2]
+04-28 17:38:35 Engine Move validated. Notifying other players
+04-28 17:38:35 Engine Notifying player 1 of last move
+04-28 17:38:35 Engine Notifying player 2 of last move
+04-28 17:38:35 Engine Finished processing player 2's move
+04-28 17:38:35 Engine Checking all possible moves for player 1
+04-28 17:38:35 Engine Error: The player's piece move set was incorrect.
+04-28 17:38:35 Engine Error: Missing piece moves: []
+04-28 17:38:35 Engine Error: Extra piece moves: [PlayerMove [Piece: start=[8, 4], end=[8, 3], playerId=1], PlayerMove [Piece: start=[8, 4], end=[8, 5], playerId=1]]
+04-28 17:38:35 Engine Error: The player's wall move set was incorrect.
+04-28 17:38:35 Engine Error: Missing wall moves: []
+04-28 17:38:35 Engine Error: Extra wall moves: [PlayerMove [Wall: start=[7, 3], end=[7, 5], playerId=1], PlayerMove [Wall: start=[7, 4], end=[7, 6], playerId=1]]
+04-28 17:38:35 Engine Processing move #7
+04-28 17:38:35 Engine Getting preMove from list
+04-28 17:38:35 Engine Validating move: PlayerMove [Wall: start=[5, 0], end=[5, 2], playerId=1]
+04-28 17:38:37 Engine Move validated. Notifying other players
+04-28 17:38:37 Engine Notifying player 1 of last move
+04-28 17:38:37 Engine Notifying player 2 of last move
+04-28 17:38:37 Engine Finished processing player 1's move
+04-28 17:38:37 Engine Checking all possible moves for player 1
+04-28 17:38:37 Engine Error: The player's piece move set was incorrect.
+04-28 17:38:37 Engine Error: Missing piece moves: []
+04-28 17:38:37 Engine Error: Extra piece moves: [PlayerMove [Piece: start=[8, 4], end=[8, 3], playerId=1], PlayerMove [Piece: start=[8, 4], end=[8, 5], playerId=1]]
+04-28 17:38:37 Engine Error: The player's wall move set was incorrect.
+04-28 17:38:37 Engine Error: Missing wall moves: []
+04-28 17:38:37 Engine Error: Extra wall moves: [PlayerMove [Wall: start=[7, 3], end=[7, 5], playerId=1], PlayerMove [Wall: start=[7, 4], end=[7, 6], playerId=1]]
+04-28 17:38:37 Engine Processing move #8
+04-28 17:38:37 Engine Getting preMove from list
+04-28 17:38:37 Engine Validating move: PlayerMove [Wall: start=[5, 7], end=[5, 9], playerId=2]
+04-28 17:38:39 Engine Move validated. Notifying other players
+04-28 17:38:39 Engine Notifying player 1 of last move
+04-28 17:38:40 Engine Notifying player 2 of last move
+04-28 17:38:40 Engine Finished processing player 2's move
+04-28 17:38:40 Engine Checking all possible moves for player 1
+04-28 17:38:40 Engine Error: The player's piece move set was incorrect.
+04-28 17:38:40 Engine Error: Missing piece moves: []
+04-28 17:38:40 Engine Error: Extra piece moves: [PlayerMove [Piece: start=[8, 4], end=[8, 3], playerId=1], PlayerMove [Piece: start=[8, 4], end=[8, 5], playerId=1]]
+04-28 17:38:40 Engine Error: The player's wall move set was incorrect.
+04-28 17:38:40 Engine Error: Missing wall moves: []
+04-28 17:38:40 Engine Error: Extra wall moves: [PlayerMove [Wall: start=[7, 3], end=[7, 5], playerId=1], PlayerMove [Wall: start=[7, 4], end=[7, 6], playerId=1]]
+04-28 17:38:40 Engine Processing move #9
+04-28 17:38:40 Engine Getting preMove from list
+04-28 17:38:40 Engine Validating move: PlayerMove [Wall: start=[4, 0], end=[4, 2], playerId=1]
+04-28 17:38:42 Engine Move validated. Notifying other players
+04-28 17:38:42 Engine Notifying player 1 of last move
+04-28 17:38:42 Engine Notifying player 2 of last move
+04-28 17:38:42 Engine Finished processing player 1's move
+04-28 17:38:42 Engine Checking all possible moves for player 1
+04-28 17:38:42 Engine Error: The player's piece move set was incorrect.
+04-28 17:38:42 Engine Error: Missing piece moves: []
+04-28 17:38:42 Engine Error: Extra piece moves: [PlayerMove [Piece: start=[8, 4], end=[8, 3], playerId=1], PlayerMove [Piece: start=[8, 4], end=[8, 5], playerId=1]]
+04-28 17:38:42 Engine Error: The player's wall move set was incorrect.
+04-28 17:38:42 Engine Error: Missing wall moves: []
+04-28 17:38:42 Engine Error: Extra wall moves: [PlayerMove [Wall: start=[7, 3], end=[7, 5], playerId=1], PlayerMove [Wall: start=[7, 4], end=[7, 6], playerId=1]]
+04-28 17:38:42 Engine Processing move #10
+04-28 17:38:42 Engine Getting preMove from list
+04-28 17:38:42 Engine Validating move: PlayerMove [Wall: start=[4, 7], end=[4, 9], playerId=2]
+04-28 17:38:44 Engine Move validated. Notifying other players
+04-28 17:38:44 Engine Notifying player 1 of last move
+04-28 17:38:44 Engine Notifying player 2 of last move
+04-28 17:38:44 Engine Finished processing player 2's move
+04-28 17:38:44 Engine Checking all possible moves for player 1
+04-28 17:38:44 Engine Error: The player's piece move set was incorrect.
+04-28 17:38:44 Engine Error: Missing piece moves: []
+04-28 17:38:44 Engine Error: Extra piece moves: [PlayerMove [Piece: start=[8, 4], end=[8, 3], playerId=1], PlayerMove [Piece: start=[8, 4], end=[8, 5], playerId=1]]
+04-28 17:38:44 Engine Error: The player's wall move set was incorrect.
+04-28 17:38:44 Engine Error: Missing wall moves: []
+04-28 17:38:44 Engine Error: Extra wall moves: [PlayerMove [Wall: start=[7, 3], end=[7, 5], playerId=1], PlayerMove [Wall: start=[7, 4], end=[7, 6], playerId=1]]
+04-28 17:38:44 Engine Processing move #11
+04-28 17:38:44 Engine Getting preMove from list
+04-28 17:38:44 Engine Validating move: PlayerMove [Wall: start=[4, 2], end=[4, 4], playerId=1]
+04-28 17:38:46 Engine Move validated. Notifying other players
+04-28 17:38:46 Engine Notifying player 1 of last move
+04-28 17:38:46 Engine Notifying player 2 of last move
+04-28 17:38:46 Engine Finished processing player 1's move
+04-28 17:38:46 Engine Checking all possible moves for player 1
+04-28 17:38:46 Engine Error: The player's piece move set was incorrect.
+04-28 17:38:46 Engine Error: Missing piece moves: []
+04-28 17:38:46 Engine Error: Extra piece moves: [PlayerMove [Piece: start=[8, 4], end=[8, 3], playerId=1], PlayerMove [Piece: start=[8, 4], end=[8, 5], playerId=1]]
+04-28 17:38:46 Engine Error: The player's wall move set was incorrect.
+04-28 17:38:46 Engine Error: Missing wall moves: []
+04-28 17:38:46 Engine Error: Extra wall moves: [PlayerMove [Wall: start=[7, 3], end=[7, 5], playerId=1], PlayerMove [Wall: start=[7, 4], end=[7, 6], playerId=1]]
+04-28 17:38:46 Engine Processing move #12
+04-28 17:38:46 Engine Getting preMove from list
+04-28 17:38:46 Engine Validating move: PlayerMove [Wall: start=[4, 5], end=[4, 7], playerId=2]

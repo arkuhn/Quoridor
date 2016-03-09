@@ -1,0 +1,8 @@
+04-27 22:16:46 Engine Quoridor Java Client v1.0.10 by RIT CS Department starting up
+04-27 22:16:46 Engine Loading player YOUR_PLAYERNAME_HERE
+04-27 22:16:46 Engine Error: Failed to load player YOUR_PLAYERNAME_HERE
+04-27 22:16:46 Engine Loading player RandomPlayer
+04-27 22:16:46 Engine Loaded 1 player
+04-27 22:16:51 Engine Calling init() for player 1
+04-27 22:16:51 Model  Fetching paths...
+04-27 22:16:51 Model  Paths fetched.  Uploading...

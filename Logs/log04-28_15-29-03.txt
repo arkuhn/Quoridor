@@ -1,0 +1,608 @@
+04-28 15:29:03 Engine Quoridor Java Client v1.0.10 by RIT CS Department starting up
+04-28 15:29:03 Engine Loading player DOMINOS
+04-28 15:29:03 Engine Loading player EasyPlayer
+04-28 15:29:03 Engine Loading player EasyPlayer
+04-28 15:29:03 Engine Loading player EasyPlayer
+04-28 15:29:03 Engine Loaded 4 players
+04-28 15:29:06 Engine Calling init() for player 1
+04-28 15:29:06 Engine Calling init() for player 2
+04-28 15:29:06 Engine Calling init() for player 3
+04-28 15:29:06 Engine Calling init() for player 4
+04-28 15:29:06 Model  GUI accessible at:
+https://games.cs.rit.edu/quoridorapi/gameview/animations.500/public.ceaac85fffe29445788c9eb5c41eb5e090f80470553fdf81decff/gameid.21943/partone.0
+04-28 15:29:06 Engine Checking all possible moves for player 1
+04-28 15:29:06 Engine All possible valid piece moves verified.
+04-28 15:29:06 Engine All possible valid wall moves verified.
+04-28 15:29:06 Engine Processing move #1
+04-28 15:29:06 Engine Getting preMove from list
+04-28 15:29:06 Engine Validating move: PlayerMove [Piece: start=[8, 4], end=[7, 4], playerId=1]
+04-28 15:29:08 Engine Move validated. Notifying other players
+04-28 15:29:08 Engine Notifying player 1 of last move
+04-28 15:29:08 Engine Notifying player 2 of last move
+04-28 15:29:08 Engine Notifying player 3 of last move
+04-28 15:29:08 Engine Notifying player 4 of last move
+04-28 15:29:08 Engine Finished processing player 1's move
+04-28 15:29:08 Engine Checking all possible moves for player 1
+04-28 15:29:08 Engine All possible valid piece moves verified.
+04-28 15:29:08 Engine All possible valid wall moves verified.
+04-28 15:29:08 Engine Processing move #2
+04-28 15:29:08 Engine Getting preMove from list
+04-28 15:29:08 Engine Validating move: PlayerMove [Piece: start=[0, 4], end=[1, 4], playerId=2]
+04-28 15:29:09 Engine Move validated. Notifying other players
+04-28 15:29:09 Engine Notifying player 1 of last move
+04-28 15:29:09 Engine Notifying player 2 of last move
+04-28 15:29:10 Engine Notifying player 3 of last move
+04-28 15:29:10 Engine Notifying player 4 of last move
+04-28 15:29:10 Engine Finished processing player 2's move
+04-28 15:29:10 Engine Checking all possible moves for player 1
+04-28 15:29:10 Engine All possible valid piece moves verified.
+04-28 15:29:10 Engine All possible valid wall moves verified.
+04-28 15:29:10 Engine Processing move #3
+04-28 15:29:10 Engine Getting preMove from list
+04-28 15:29:10 Engine Validating move: PlayerMove [Piece: start=[4, 0], end=[4, 1], playerId=3]
+04-28 15:29:11 Engine Move validated. Notifying other players
+04-28 15:29:11 Engine Notifying player 1 of last move
+04-28 15:29:11 Engine Notifying player 2 of last move
+04-28 15:29:11 Engine Notifying player 3 of last move
+04-28 15:29:11 Engine Notifying player 4 of last move
+04-28 15:29:11 Engine Finished processing player 3's move
+04-28 15:29:11 Engine Checking all possible moves for player 1
+04-28 15:29:11 Engine All possible valid piece moves verified.
+04-28 15:29:11 Engine All possible valid wall moves verified.
+04-28 15:29:11 Engine Processing move #4
+04-28 15:29:11 Engine Getting preMove from list
+04-28 15:29:11 Engine Validating move: PlayerMove [Piece: start=[4, 8], end=[4, 7], playerId=4]
+04-28 15:29:12 Engine Move validated. Notifying other players
+04-28 15:29:12 Engine Notifying player 1 of last move
+04-28 15:29:12 Engine Notifying player 2 of last move
+04-28 15:29:12 Engine Notifying player 3 of last move
+04-28 15:29:12 Engine Notifying player 4 of last move
+04-28 15:29:12 Engine Finished processing player 4's move
+04-28 15:29:12 Engine Checking all possible moves for player 1
+04-28 15:29:12 Engine All possible valid piece moves verified.
+04-28 15:29:12 Engine All possible valid wall moves verified.
+04-28 15:29:13 Engine Processing move #5
+04-28 15:29:13 Engine Getting preMove from list
+04-28 15:29:13 Engine Validating move: PlayerMove [Piece: start=[7, 4], end=[6, 4], playerId=1]
+04-28 15:29:14 Engine Move validated. Notifying other players
+04-28 15:29:14 Engine Notifying player 1 of last move
+04-28 15:29:14 Engine Notifying player 2 of last move
+04-28 15:29:14 Engine Notifying player 3 of last move
+04-28 15:29:14 Engine Notifying player 4 of last move
+04-28 15:29:14 Engine Finished processing player 1's move
+04-28 15:29:14 Engine Checking all possible moves for player 1
+04-28 15:29:14 Engine All possible valid piece moves verified.
+04-28 15:29:14 Engine All possible valid wall moves verified.
+04-28 15:29:14 Engine Processing move #6
+04-28 15:29:14 Engine Getting preMove from list
+04-28 15:29:14 Engine Validating move: PlayerMove [Piece: start=[1, 4], end=[2, 4], playerId=2]
+04-28 15:29:15 Engine Move validated. Notifying other players
+04-28 15:29:15 Engine Notifying player 1 of last move
+04-28 15:29:15 Engine Notifying player 2 of last move
+04-28 15:29:15 Engine Notifying player 3 of last move
+04-28 15:29:15 Engine Notifying player 4 of last move
+04-28 15:29:15 Engine Finished processing player 2's move
+04-28 15:29:15 Engine Checking all possible moves for player 1
+04-28 15:29:15 Engine All possible valid piece moves verified.
+04-28 15:29:15 Engine All possible valid wall moves verified.
+04-28 15:29:15 Engine Processing move #7
+04-28 15:29:15 Engine Getting preMove from list
+04-28 15:29:15 Engine Validating move: PlayerMove [Piece: start=[4, 1], end=[4, 2], playerId=3]
+04-28 15:29:16 Engine Move validated. Notifying other players
+04-28 15:29:16 Engine Notifying player 1 of last move
+04-28 15:29:16 Engine Notifying player 2 of last move
+04-28 15:29:16 Engine Notifying player 3 of last move
+04-28 15:29:17 Engine Notifying player 4 of last move
+04-28 15:29:17 Engine Finished processing player 3's move
+04-28 15:29:17 Engine Checking all possible moves for player 1
+04-28 15:29:17 Engine All possible valid piece moves verified.
+04-28 15:29:17 Engine All possible valid wall moves verified.
+04-28 15:29:17 Engine Processing move #8
+04-28 15:29:17 Engine Getting preMove from list
+04-28 15:29:17 Engine Validating move: PlayerMove [Piece: start=[4, 7], end=[4, 6], playerId=4]
+04-28 15:29:17 Engine Move validated. Notifying other players
+04-28 15:29:17 Engine Notifying player 1 of last move
+04-28 15:29:18 Engine Notifying player 2 of last move
+04-28 15:29:18 Engine Notifying player 3 of last move
+04-28 15:29:18 Engine Notifying player 4 of last move
+04-28 15:29:18 Engine Finished processing player 4's move
+04-28 15:29:18 Engine Checking all possible moves for player 1
+04-28 15:29:18 Engine All possible valid piece moves verified.
+04-28 15:29:18 Engine All possible valid wall moves verified.
+04-28 15:29:18 Engine Processing move #9
+04-28 15:29:18 Engine Getting preMove from list
+04-28 15:29:18 Engine Validating move: PlayerMove [Piece: start=[6, 4], end=[5, 4], playerId=1]
+04-28 15:29:19 Engine Move validated. Notifying other players
+04-28 15:29:19 Engine Notifying player 1 of last move
+04-28 15:29:19 Engine Notifying player 2 of last move
+04-28 15:29:19 Engine Notifying player 3 of last move
+04-28 15:29:19 Engine Notifying player 4 of last move
+04-28 15:29:20 Engine Finished processing player 1's move
+04-28 15:29:20 Engine Checking all possible moves for player 1
+04-28 15:29:20 Engine All possible valid piece moves verified.
+04-28 15:29:20 Engine All possible valid wall moves verified.
+04-28 15:29:20 Engine Processing move #10
+04-28 15:29:20 Engine Getting preMove from list
+04-28 15:29:20 Engine Validating move: PlayerMove [Piece: start=[2, 4], end=[3, 4], playerId=2]
+04-28 15:29:20 Engine Move validated. Notifying other players
+04-28 15:29:20 Engine Notifying player 1 of last move
+04-28 15:29:20 Engine Notifying player 2 of last move
+04-28 15:29:21 Engine Notifying player 3 of last move
+04-28 15:29:21 Engine Notifying player 4 of last move
+04-28 15:29:21 Engine Finished processing player 2's move
+04-28 15:29:21 Engine Checking all possible moves for player 1
+04-28 15:29:21 Engine All possible valid piece moves verified.
+04-28 15:29:21 Engine All possible valid wall moves verified.
+04-28 15:29:21 Engine Processing move #11
+04-28 15:29:21 Engine Getting preMove from list
+04-28 15:29:21 Engine Validating move: PlayerMove [Piece: start=[4, 2], end=[4, 3], playerId=3]
+04-28 15:29:22 Engine Move validated. Notifying other players
+04-28 15:29:22 Engine Notifying player 1 of last move
+04-28 15:29:22 Engine Notifying player 2 of last move
+04-28 15:29:22 Engine Notifying player 3 of last move
+04-28 15:29:22 Engine Notifying player 4 of last move
+04-28 15:29:22 Engine Finished processing player 3's move
+04-28 15:29:22 Engine Checking all possible moves for player 1
+04-28 15:29:22 Engine All possible valid piece moves verified.
+04-28 15:29:22 Engine All possible valid wall moves verified.
+04-28 15:29:22 Engine Processing move #12
+04-28 15:29:22 Engine Getting preMove from list
+04-28 15:29:22 Engine Validating move: PlayerMove [Piece: start=[4, 6], end=[4, 5], playerId=4]
+04-28 15:29:23 Engine Move validated. Notifying other players
+04-28 15:29:23 Engine Notifying player 1 of last move
+04-28 15:29:23 Engine Notifying player 2 of last move
+04-28 15:29:23 Engine Notifying player 3 of last move
+04-28 15:29:23 Engine Notifying player 4 of last move
+04-28 15:29:23 Engine Finished processing player 4's move
+04-28 15:29:23 Engine Checking all possible moves for player 1
+04-28 15:29:23 Engine All possible valid piece moves verified.
+04-28 15:29:23 Engine All possible valid wall moves verified.
+04-28 15:29:23 Engine Processing move #13
+04-28 15:29:23 Engine Getting preMove from list
+04-28 15:29:23 Engine Validating move: PlayerMove [Wall: start=[6, 4], end=[6, 6], playerId=1]
+04-28 15:29:24 Engine Move validated. Notifying other players
+04-28 15:29:24 Engine Notifying player 1 of last move
+04-28 15:29:24 Engine Notifying player 2 of last move
+04-28 15:29:24 Engine Notifying player 3 of last move
+04-28 15:29:25 Engine Notifying player 4 of last move
+04-28 15:29:25 Engine Finished processing player 1's move
+04-28 15:29:25 Engine Checking all possible moves for player 1
+04-28 15:29:25 Engine All possible valid piece moves verified.
+04-28 15:29:25 Engine All possible valid wall moves verified.
+04-28 15:29:25 Engine Processing move #14
+04-28 15:29:25 Engine Getting preMove from list
+04-28 15:29:25 Engine Validating move: PlayerMove [Piece: start=[3, 4], end=[4, 4], playerId=2]
+04-28 15:29:26 Engine Move validated. Notifying other players
+04-28 15:29:26 Engine Notifying player 1 of last move
+04-28 15:29:26 Engine Notifying player 2 of last move
+04-28 15:29:26 Engine Notifying player 3 of last move
+04-28 15:29:26 Engine Notifying player 4 of last move
+04-28 15:29:26 Engine Finished processing player 2's move
+04-28 15:29:26 Engine Checking all possible moves for player 1
+04-28 15:29:26 Engine All possible valid piece moves verified.
+04-28 15:29:26 Engine All possible valid wall moves verified.
+04-28 15:29:26 Engine Processing move #15
+04-28 15:29:26 Engine Getting preMove from list
+04-28 15:29:26 Engine Validating move: PlayerMove [Piece: start=[4, 3], end=[3, 4], playerId=3]
+04-28 15:29:27 Engine Move validated. Notifying other players
+04-28 15:29:27 Engine Notifying player 1 of last move
+04-28 15:29:27 Engine Notifying player 2 of last move
+04-28 15:29:27 Engine Notifying player 3 of last move
+04-28 15:29:27 Engine Notifying player 4 of last move
+04-28 15:29:27 Engine Finished processing player 3's move
+04-28 15:29:27 Engine Checking all possible moves for player 1
+04-28 15:29:27 Engine Error: The player's piece move set was incorrect.
+04-28 15:29:27 Engine Error: Missing piece moves: [PlayerMove [Piece: start=[5, 4], end=[4, 3], playerId=1]]
+04-28 15:29:27 Engine Error: Extra piece moves: []
+04-28 15:29:27 Engine All possible valid wall moves verified.
+04-28 15:29:27 Engine Processing move #16
+04-28 15:29:27 Engine Getting preMove from list
+04-28 15:29:27 Engine Validating move: PlayerMove [Piece: start=[4, 5], end=[4, 3], playerId=4]
+04-28 15:29:28 Engine Move validated. Notifying other players
+04-28 15:29:28 Engine Notifying player 1 of last move
+04-28 15:29:28 Engine Notifying player 2 of last move
+04-28 15:29:28 Engine Notifying player 3 of last move
+04-28 15:29:28 Engine Notifying player 4 of last move
+04-28 15:29:29 Engine Finished processing player 4's move
+04-28 15:29:29 Engine Checking all possible moves for player 1
+04-28 15:29:29 Engine Error: The player's piece move set was incorrect.
+04-28 15:29:29 Engine Error: Missing piece moves: [PlayerMove [Piece: start=[5, 4], end=[4, 5], playerId=1]]
+04-28 15:29:29 Engine Error: Extra piece moves: []
+04-28 15:29:29 Engine All possible valid wall moves verified.
+04-28 15:29:29 Engine Processing move #17
+04-28 15:29:29 Engine Getting preMove from list
+04-28 15:29:29 Engine Validating move: PlayerMove [Wall: start=[4, 4], end=[6, 4], playerId=1]
+04-28 15:29:30 Engine Move validated. Notifying other players
+04-28 15:29:30 Engine Notifying player 1 of last move
+04-28 15:29:30 Engine Notifying player 2 of last move
+04-28 15:29:30 Engine Notifying player 3 of last move
+04-28 15:29:30 Engine Notifying player 4 of last move
+04-28 15:29:30 Engine Finished processing player 1's move
+04-28 15:29:30 Engine Checking all possible moves for player 1
+04-28 15:29:30 Engine Error: The player's piece move set was incorrect.
+04-28 15:29:30 Engine Error: Missing piece moves: [PlayerMove [Piece: start=[5, 4], end=[4, 5], playerId=1]]
+04-28 15:29:30 Engine Error: Extra piece moves: []
+04-28 15:29:30 Engine All possible valid wall moves verified.
+04-28 15:29:30 Engine Processing move #18
+04-28 15:29:30 Engine Getting preMove from list
+04-28 15:29:30 Engine Validating move: PlayerMove [Wall: start=[4, 5], end=[6, 5], playerId=2]
+04-28 15:29:31 Engine Move validated. Notifying other players
+04-28 15:29:31 Engine Notifying player 1 of last move
+04-28 15:29:31 Engine Notifying player 2 of last move
+04-28 15:29:31 Engine Notifying player 3 of last move
+04-28 15:29:31 Engine Notifying player 4 of last move
+04-28 15:29:31 Engine Finished processing player 2's move
+04-28 15:29:31 Engine Checking all possible moves for player 1
+04-28 15:29:31 Engine All possible valid piece moves verified.
+04-28 15:29:31 Engine Error: The player's wall move set was incorrect.
+04-28 15:29:31 Engine Error: Missing wall moves: []
+04-28 15:29:31 Engine Error: Extra wall moves: [PlayerMove [Wall: start=[4, 3], end=[4, 5], playerId=1], PlayerMove [Wall: start=[4, 4], end=[4, 6], playerId=1]]
+04-28 15:29:31 Engine Processing move #19
+04-28 15:29:31 Engine Getting preMove from list
+04-28 15:29:31 Engine Validating move: PlayerMove [Wall: start=[2, 4], end=[4, 4], playerId=3]
+04-28 15:29:32 Engine Move validated. Notifying other players
+04-28 15:29:32 Engine Notifying player 1 of last move
+04-28 15:29:32 Engine Notifying player 2 of last move
+04-28 15:29:32 Engine Notifying player 3 of last move
+04-28 15:29:32 Engine Notifying player 4 of last move
+04-28 15:29:32 Engine Finished processing player 3's move
+04-28 15:29:32 Engine Checking all possible moves for player 1
+04-28 15:29:32 Engine All possible valid piece moves verified.
+04-28 15:29:32 Engine Error: The player's wall move set was incorrect.
+04-28 15:29:32 Engine Error: Missing wall moves: []
+04-28 15:29:32 Engine Error: Extra wall moves: [PlayerMove [Wall: start=[4, 3], end=[4, 5], playerId=1], PlayerMove [Wall: start=[4, 4], end=[4, 6], playerId=1]]
+04-28 15:29:32 Engine Processing move #20
+04-28 15:29:32 Engine Getting preMove from list
+04-28 15:29:32 Engine Validating move: PlayerMove [Piece: start=[4, 3], end=[4, 2], playerId=4]
+04-28 15:29:34 Engine Move validated. Notifying other players
+04-28 15:29:34 Engine Notifying player 1 of last move
+04-28 15:29:34 Engine Notifying player 2 of last move
+04-28 15:29:34 Engine Notifying player 3 of last move
+04-28 15:29:34 Engine Notifying player 4 of last move
+04-28 15:29:34 Engine Finished processing player 4's move
+04-28 15:29:34 Engine Checking all possible moves for player 1
+04-28 15:29:34 Engine All possible valid piece moves verified.
+04-28 15:29:34 Engine Error: The player's wall move set was incorrect.
+04-28 15:29:34 Engine Error: Missing wall moves: []
+04-28 15:29:34 Engine Error: Extra wall moves: [PlayerMove [Wall: start=[4, 3], end=[4, 5], playerId=1], PlayerMove [Wall: start=[4, 4], end=[4, 6], playerId=1]]
+04-28 15:29:34 Engine Processing move #21
+04-28 15:29:34 Engine Getting preMove from list
+04-28 15:29:34 Engine Validating move: PlayerMove [Wall: start=[2, 5], end=[4, 5], playerId=1]
+04-28 15:29:35 Engine Move validated. Notifying other players
+04-28 15:29:35 Engine Notifying player 1 of last move
+04-28 15:29:35 Engine Notifying player 2 of last move
+04-28 15:29:35 Engine Notifying player 3 of last move
+04-28 15:29:35 Engine Notifying player 4 of last move
+04-28 15:29:35 Engine Finished processing player 1's move
+04-28 15:29:35 Engine Checking all possible moves for player 1
+04-28 15:29:35 Engine All possible valid piece moves verified.
+04-28 15:29:35 Engine Error: The player's wall move set was incorrect.
+04-28 15:29:35 Engine Error: Missing wall moves: []
+04-28 15:29:35 Engine Error: Extra wall moves: [PlayerMove [Wall: start=[2, 3], end=[2, 5], playerId=1], PlayerMove [Wall: start=[2, 4], end=[2, 6], playerId=1], PlayerMove [Wall: start=[4, 3], end=[4, 5], playerId=1], PlayerMove [Wall: start=[4, 4], end=[4, 6], playerId=1]]
+04-28 15:29:35 Engine Processing move #22
+04-28 15:29:35 Engine Getting preMove from list
+04-28 15:29:35 Engine Validating move: PlayerMove [Wall: start=[6, 2], end=[6, 4], playerId=2]
+04-28 15:29:36 Engine Move validated. Notifying other players
+04-28 15:29:36 Engine Notifying player 1 of last move
+04-28 15:29:37 Engine Notifying player 2 of last move
+04-28 15:29:37 Engine Notifying player 3 of last move
+04-28 15:29:37 Engine Notifying player 4 of last move
+04-28 15:29:37 Engine Finished processing player 2's move
+04-28 15:29:37 Engine Checking all possible moves for player 1
+04-28 15:29:37 Engine All possible valid piece moves verified.
+04-28 15:29:37 Engine Error: The player's wall move set was incorrect.
+04-28 15:29:37 Engine Error: Missing wall moves: []
+04-28 15:29:37 Engine Error: Extra wall moves: [PlayerMove [Wall: start=[2, 3], end=[2, 5], playerId=1], PlayerMove [Wall: start=[2, 4], end=[2, 6], playerId=1], PlayerMove [Wall: start=[4, 3], end=[4, 5], playerId=1], PlayerMove [Wall: start=[4, 4], end=[4, 6], playerId=1]]
+04-28 15:29:37 Engine Processing move #23
+04-28 15:29:37 Engine Getting preMove from list
+04-28 15:29:37 Engine Validating move: PlayerMove [Wall: start=[6, 6], end=[6, 8], playerId=3]
+04-28 15:29:38 Engine Move validated. Notifying other players
+04-28 15:29:38 Engine Notifying player 1 of last move
+04-28 15:29:38 Engine Notifying player 2 of last move
+04-28 15:29:38 Engine Notifying player 3 of last move
+04-28 15:29:38 Engine Notifying player 4 of last move
+04-28 15:29:38 Engine Finished processing player 3's move
+04-28 15:29:38 Engine Checking all possible moves for player 1
+04-28 15:29:38 Engine All possible valid piece moves verified.
+04-28 15:29:38 Engine Error: The player's wall move set was incorrect.
+04-28 15:29:38 Engine Error: Missing wall moves: []
+04-28 15:29:38 Engine Error: Extra wall moves: [PlayerMove [Wall: start=[2, 3], end=[2, 5], playerId=1], PlayerMove [Wall: start=[4, 3], end=[4, 5], playerId=1], PlayerMove [Wall: start=[2, 4], end=[2, 6], playerId=1], PlayerMove [Wall: start=[4, 4], end=[4, 6], playerId=1]]
+04-28 15:29:38 Engine Processing move #24
+04-28 15:29:38 Engine Getting preMove from list
+04-28 15:29:38 Engine Validating move: PlayerMove [Wall: start=[6, 0], end=[6, 2], playerId=4]
+04-28 15:29:39 Engine Move validated. Notifying other players
+04-28 15:29:39 Engine Notifying player 1 of last move
+04-28 15:29:39 Engine Notifying player 2 of last move
+04-28 15:29:40 Engine Notifying player 3 of last move
+04-28 15:29:40 Engine Notifying player 4 of last move
+04-28 15:29:40 Engine Finished processing player 4's move
+04-28 15:29:40 Engine Checking all possible moves for player 1
+04-28 15:29:40 Engine All possible valid piece moves verified.
+04-28 15:29:40 Engine Error: The player's wall move set was incorrect.
+04-28 15:29:40 Engine Error: Missing wall moves: []
+04-28 15:29:40 Engine Error: Extra wall moves: [PlayerMove [Wall: start=[0, 5], end=[2, 5], playerId=1], PlayerMove [Wall: start=[2, 3], end=[2, 5], playerId=1], PlayerMove [Wall: start=[2, 4], end=[2, 6], playerId=1], PlayerMove [Wall: start=[4, 3], end=[4, 5], playerId=1], PlayerMove [Wall: start=[4, 4], end=[4, 6], playerId=1]]
+04-28 15:29:40 Engine Processing move #25
+04-28 15:29:40 Engine Getting preMove from list
+04-28 15:29:40 Engine Validating move: PlayerMove [Wall: start=[4, 3], end=[6, 3], playerId=1]
+04-28 15:29:41 Engine Move validated. Notifying other players
+04-28 15:29:41 Engine Notifying player 1 of last move
+04-28 15:29:41 Engine Notifying player 2 of last move
+04-28 15:29:41 Engine Notifying player 3 of last move
+04-28 15:29:41 Engine Notifying player 4 of last move
+04-28 15:29:41 Engine Finished processing player 1's move
+04-28 15:29:41 Engine Checking all possible moves for player 1
+04-28 15:29:41 Engine All possible valid piece moves verified.
+04-28 15:29:41 Engine Error: The player's wall move set was incorrect.
+04-28 15:29:41 Engine Error: Missing wall moves: []
+04-28 15:29:41 Engine Error: Extra wall moves: [PlayerMove [Wall: start=[0, 5], end=[2, 5], playerId=1], PlayerMove [Wall: start=[2, 3], end=[2, 5], playerId=1], PlayerMove [Wall: start=[2, 4], end=[2, 6], playerId=1], PlayerMove [Wall: start=[4, 3], end=[4, 5], playerId=1], PlayerMove [Wall: start=[4, 4], end=[4, 6], playerId=1]]
+04-28 15:29:41 Engine Processing move #26
+04-28 15:29:41 Engine Getting preMove from list
+04-28 15:29:41 Engine Validating move: PlayerMove [Wall: start=[4, 6], end=[6, 6], playerId=2]
+04-28 15:29:42 Engine Move validated. Notifying other players
+04-28 15:29:42 Engine Notifying player 1 of last move
+04-28 15:29:42 Engine Notifying player 2 of last move
+04-28 15:29:42 Engine Notifying player 3 of last move
+04-28 15:29:42 Engine Notifying player 4 of last move
+04-28 15:29:42 Engine Finished processing player 2's move
+04-28 15:29:42 Engine Checking all possible moves for player 1
+04-28 15:29:42 Engine All possible valid piece moves verified.
+04-28 15:29:42 Engine Error: The player's wall move set was incorrect.
+04-28 15:29:42 Engine Error: Missing wall moves: []
+04-28 15:29:42 Engine Error: Extra wall moves: [PlayerMove [Wall: start=[0, 5], end=[2, 5], playerId=1], PlayerMove [Wall: start=[2, 4], end=[2, 6], playerId=1], PlayerMove [Wall: start=[4, 3], end=[4, 5], playerId=1], PlayerMove [Wall: start=[2, 3], end=[2, 5], playerId=1], PlayerMove [Wall: start=[4, 4], end=[4, 6], playerId=1]]
+04-28 15:29:42 Engine Processing move #27
+04-28 15:29:42 Engine Getting preMove from list
+04-28 15:29:42 Engine Validating move: PlayerMove [Wall: start=[4, 2], end=[6, 2], playerId=3]
+04-28 15:29:43 Engine Move validated. Notifying other players
+04-28 15:29:43 Engine Notifying player 1 of last move
+04-28 15:29:44 Engine Notifying player 2 of last move
+04-28 15:29:44 Engine Notifying player 3 of last move
+04-28 15:29:44 Engine Notifying player 4 of last move
+04-28 15:29:44 Engine Finished processing player 3's move
+04-28 15:29:44 Engine Checking all possible moves for player 1
+04-28 15:29:44 Engine All possible valid piece moves verified.
+04-28 15:29:44 Engine Error: The player's wall move set was incorrect.
+04-28 15:29:44 Engine Error: Missing wall moves: []
+04-28 15:29:44 Engine Error: Extra wall moves: [PlayerMove [Wall: start=[0, 5], end=[2, 5], playerId=1], PlayerMove [Wall: start=[2, 4], end=[2, 6], playerId=1], PlayerMove [Wall: start=[4, 3], end=[4, 5], playerId=1], PlayerMove [Wall: start=[4, 1], end=[4, 3], playerId=1], PlayerMove [Wall: start=[2, 3], end=[2, 5], playerId=1], PlayerMove [Wall: start=[4, 2], end=[4, 4], playerId=1], PlayerMove [Wall: start=[4, 4], end=[4, 6], playerId=1]]
+04-28 15:29:44 Engine Processing move #28
+04-28 15:29:44 Engine Getting preMove from list
+04-28 15:29:44 Engine Validating move: PlayerMove [Wall: start=[4, 7], end=[6, 7], playerId=4]
+04-28 15:29:45 Engine Move validated. Notifying other players
+04-28 15:29:45 Engine Notifying player 1 of last move
+04-28 15:29:45 Engine Notifying player 2 of last move
+04-28 15:29:45 Engine Notifying player 3 of last move
+04-28 15:29:45 Engine Notifying player 4 of last move
+04-28 15:29:45 Engine Finished processing player 4's move
+04-28 15:29:45 Engine Checking all possible moves for player 1
+04-28 15:29:45 Engine All possible valid piece moves verified.
+04-28 15:29:45 Engine Error: The player's wall move set was incorrect.
+04-28 15:29:45 Engine Error: Missing wall moves: []
+04-28 15:29:45 Engine Error: Extra wall moves: [PlayerMove [Wall: start=[0, 5], end=[2, 5], playerId=1], PlayerMove [Wall: start=[2, 4], end=[2, 6], playerId=1], PlayerMove [Wall: start=[4, 3], end=[4, 5], playerId=1], PlayerMove [Wall: start=[4, 7], end=[4, 9], playerId=1], PlayerMove [Wall: start=[4, 1], end=[4, 3], playerId=1], PlayerMove [Wall: start=[5, 7], end=[5, 9], playerId=1], PlayerMove [Wall: start=[2, 3], end=[2, 5], playerId=1], PlayerMove [Wall: start=[4, 2], end=[4, 4], playerId=1], PlayerMove [Wall: start=[4, 4], end=[4, 6], playerId=1]]
+04-28 15:29:45 Engine Processing move #29
+04-28 15:29:45 Engine Getting preMove from list
+04-28 15:29:45 Engine Validating move: PlayerMove [Wall: start=[4, 1], end=[6, 1], playerId=1]
+04-28 15:29:46 Engine Move validated. Notifying other players
+04-28 15:29:46 Engine Notifying player 1 of last move
+04-28 15:29:46 Engine Notifying player 2 of last move
+04-28 15:29:47 Engine Notifying player 3 of last move
+04-28 15:29:47 Engine Notifying player 4 of last move
+04-28 15:29:47 Engine Finished processing player 1's move
+04-28 15:29:47 Engine Checking all possible moves for player 1
+04-28 15:29:47 Engine All possible valid piece moves verified.
+04-28 15:29:47 Engine All possible valid wall moves verified.
+04-28 15:29:47 Engine Processing move #30
+04-28 15:29:47 Engine Getting preMove from list
+04-28 15:29:47 Engine Validating move: PlayerMove [Wall: start=[2, 1], end=[4, 1], playerId=2]
+04-28 15:29:48 Engine Move validated. Notifying other players
+04-28 15:29:48 Engine Notifying player 1 of last move
+04-28 15:29:48 Engine Notifying player 2 of last move
+04-28 15:29:48 Engine Notifying player 3 of last move
+04-28 15:29:48 Engine Notifying player 4 of last move
+04-28 15:29:48 Engine Finished processing player 2's move
+04-28 15:29:48 Engine Checking all possible moves for player 1
+04-28 15:29:48 Engine All possible valid piece moves verified.
+04-28 15:29:48 Engine All possible valid wall moves verified.
+04-28 15:29:48 Engine Processing move #31
+04-28 15:29:48 Engine Getting preMove from list
+04-28 15:29:48 Engine Validating move: PlayerMove [Wall: start=[2, 2], end=[4, 2], playerId=3]
+04-28 15:29:49 Engine Move validated. Notifying other players
+04-28 15:29:49 Engine Notifying player 1 of last move
+04-28 15:29:50 Engine Notifying player 2 of last move
+04-28 15:29:50 Engine Notifying player 3 of last move
+04-28 15:29:50 Engine Notifying player 4 of last move
+04-28 15:29:50 Engine Finished processing player 3's move
+04-28 15:29:50 Engine Checking all possible moves for player 1
+04-28 15:29:50 Engine All possible valid piece moves verified.
+04-28 15:29:50 Engine All possible valid wall moves verified.
+04-28 15:29:50 Engine Processing move #32
+04-28 15:29:50 Engine Getting preMove from list
+04-28 15:29:50 Engine Validating move: PlayerMove [Wall: start=[2, 6], end=[4, 6], playerId=4]
+04-28 15:29:51 Engine Move validated. Notifying other players
+04-28 15:29:51 Engine Notifying player 1 of last move
+04-28 15:29:51 Engine Notifying player 2 of last move
+04-28 15:29:51 Engine Notifying player 3 of last move
+04-28 15:29:51 Engine Notifying player 4 of last move
+04-28 15:29:51 Engine Finished processing player 4's move
+04-28 15:29:51 Engine Checking all possible moves for player 1
+04-28 15:29:51 Engine All possible valid piece moves verified.
+04-28 15:29:51 Engine All possible valid wall moves verified.
+04-28 15:29:51 Engine Processing move #33
+04-28 15:29:51 Engine Getting move from player 1
+04-28 15:29:51 Engine Validating move: PlayerMove [Piece: start=[5, 4], end=[5, 4], playerId=1]
+04-28 15:29:52 Engine Move validated. Notifying other players
+04-28 15:29:52 Engine Notifying player 1 of last move
+04-28 15:29:52 Engine Notifying player 2 of last move
+04-28 15:29:52 Engine Notifying player 3 of last move
+04-28 15:29:53 Engine Notifying player 4 of last move
+04-28 15:29:53 Engine Finished processing player 1's move
+04-28 15:29:53 Engine Checking all possible moves for player 1
+04-28 15:29:53 Engine All possible valid piece moves verified.
+04-28 15:29:53 Engine All possible valid wall moves verified.
+04-28 15:29:53 Engine Processing move #34
+04-28 15:29:53 Engine Getting move from player 2
+04-28 15:29:53 Engine Validating move: PlayerMove [Piece: start=[4, 4], end=[2, 4], playerId=2]
+04-28 15:29:54 Engine Move validated. Notifying other players
+04-28 15:29:54 Engine Notifying player 1 of last move
+04-28 15:29:54 Engine Notifying player 2 of last move
+04-28 15:29:54 Engine Notifying player 3 of last move
+04-28 15:29:54 Engine Notifying player 4 of last move
+04-28 15:29:54 Engine Finished processing player 2's move
+04-28 15:29:54 Engine Checking all possible moves for player 1
+04-28 15:29:54 Engine All possible valid piece moves verified.
+04-28 15:29:54 Engine All possible valid wall moves verified.
+04-28 15:29:54 Engine Processing move #35
+04-28 15:29:54 Engine Getting move from player 3
+04-28 15:29:54 Engine Validating move: PlayerMove [Piece: start=[3, 4], end=[1, 4], playerId=3]
+04-28 15:29:55 Engine Move validated. Notifying other players
+04-28 15:29:55 Engine Notifying player 1 of last move
+04-28 15:29:55 Engine Notifying player 2 of last move
+04-28 15:29:55 Engine Notifying player 3 of last move
+04-28 15:29:56 Engine Notifying player 4 of last move
+04-28 15:29:56 Engine Finished processing player 3's move
+04-28 15:29:56 Engine Checking all possible moves for player 1
+04-28 15:29:56 Engine All possible valid piece moves verified.
+04-28 15:29:56 Engine All possible valid wall moves verified.
+04-28 15:29:56 Engine Processing move #36
+04-28 15:29:56 Engine Getting move from player 4
+04-28 15:29:56 Engine Validating move: PlayerMove [Piece: start=[4, 2], end=[3, 2], playerId=4]
+04-28 15:29:57 Engine Move validated. Notifying other players
+04-28 15:29:57 Engine Notifying player 1 of last move
+04-28 15:29:57 Engine Notifying player 2 of last move
+04-28 15:29:57 Engine Notifying player 3 of last move
+04-28 15:29:57 Engine Notifying player 4 of last move
+04-28 15:29:57 Engine Finished processing player 4's move
+04-28 15:29:57 Engine Checking all possible moves for player 1
+04-28 15:29:57 Engine All possible valid piece moves verified.
+04-28 15:29:57 Engine All possible valid wall moves verified.
+04-28 15:29:57 Engine Processing move #37
+04-28 15:29:57 Engine Getting move from player 1
+04-28 15:29:57 Engine Validating move: PlayerMove [Piece: start=[5, 4], end=[4, 4], playerId=1]
+04-28 15:29:58 Engine Move validated. Notifying other players
+04-28 15:29:58 Engine Notifying player 1 of last move
+04-28 15:29:59 Engine Notifying player 2 of last move
+04-28 15:29:59 Engine Notifying player 3 of last move
+04-28 15:29:59 Engine Notifying player 4 of last move
+04-28 15:29:59 Engine Finished processing player 1's move
+04-28 15:29:59 Engine Checking all possible moves for player 1
+04-28 15:29:59 Engine All possible valid piece moves verified.
+04-28 15:29:59 Engine All possible valid wall moves verified.
+04-28 15:29:59 Engine Processing move #38
+04-28 15:29:59 Engine Getting move from player 2
+04-28 15:29:59 Engine Validating move: PlayerMove [Piece: start=[2, 4], end=[0, 4], playerId=2]
+04-28 15:30:00 Engine Move validated. Notifying other players
+04-28 15:30:00 Engine Notifying player 1 of last move
+04-28 15:30:00 Engine Notifying player 2 of last move
+04-28 15:30:00 Engine Notifying player 3 of last move
+04-28 15:30:00 Engine Notifying player 4 of last move
+04-28 15:30:01 Engine Finished processing player 2's move
+04-28 15:30:01 Engine Checking all possible moves for player 1
+04-28 15:30:01 Engine All possible valid piece moves verified.
+04-28 15:30:01 Engine All possible valid wall moves verified.
+04-28 15:30:01 Engine Processing move #39
+04-28 15:30:01 Engine Getting move from player 3
+04-28 15:30:01 Engine Validating move: PlayerMove [Piece: start=[1, 4], end=[0, 5], playerId=3]
+04-28 15:30:02 Engine Move validated. Notifying other players
+04-28 15:30:02 Engine Notifying player 1 of last move
+04-28 15:30:02 Engine Notifying player 2 of last move
+04-28 15:30:02 Engine Notifying player 3 of last move
+04-28 15:30:02 Engine Notifying player 4 of last move
+04-28 15:30:02 Engine Finished processing player 3's move
+04-28 15:30:02 Engine Checking all possible moves for player 1
+04-28 15:30:02 Engine All possible valid piece moves verified.
+04-28 15:30:02 Engine All possible valid wall moves verified.
+04-28 15:30:02 Engine Processing move #40
+04-28 15:30:02 Engine Getting move from player 4
+04-28 15:30:02 Engine Validating move: PlayerMove [Piece: start=[3, 2], end=[2, 2], playerId=4]
+04-28 15:30:03 Engine Move validated. Notifying other players
+04-28 15:30:03 Engine Notifying player 1 of last move
+04-28 15:30:03 Engine Notifying player 2 of last move
+04-28 15:30:03 Engine Notifying player 3 of last move
+04-28 15:30:04 Engine Notifying player 4 of last move
+04-28 15:30:04 Engine Finished processing player 4's move
+04-28 15:30:04 Engine Checking all possible moves for player 1
+04-28 15:30:04 Engine All possible valid piece moves verified.
+04-28 15:30:04 Engine All possible valid wall moves verified.
+04-28 15:30:04 Engine Processing move #41
+04-28 15:30:04 Engine Getting move from player 1
+04-28 15:30:04 Engine Validating move: PlayerMove [Piece: start=[4, 4], end=[5, 4], playerId=1]
+04-28 15:30:05 Engine Move validated. Notifying other players
+04-28 15:30:05 Engine Notifying player 1 of last move
+04-28 15:30:05 Engine Notifying player 2 of last move
+04-28 15:30:05 Engine Notifying player 3 of last move
+04-28 15:30:05 Engine Notifying player 4 of last move
+04-28 15:30:05 Engine Finished processing player 1's move
+04-28 15:30:05 Engine Checking all possible moves for player 1
+04-28 15:30:05 Engine All possible valid piece moves verified.
+04-28 15:30:05 Engine All possible valid wall moves verified.
+04-28 15:30:05 Engine Processing move #42
+04-28 15:30:05 Engine Getting move from player 2
+04-28 15:30:05 Engine Validating move: PlayerMove [Piece: start=[0, 4], end=[0, 6], playerId=2]
+04-28 15:30:06 Engine Move validated. Notifying other players
+04-28 15:30:06 Engine Notifying player 1 of last move
+04-28 15:30:07 Engine Notifying player 2 of last move
+04-28 15:30:07 Engine Notifying player 3 of last move
+04-28 15:30:07 Engine Notifying player 4 of last move
+04-28 15:30:07 Engine Finished processing player 2's move
+04-28 15:30:07 Engine Checking all possible moves for player 1
+04-28 15:30:07 Engine All possible valid piece moves verified.
+04-28 15:30:07 Engine All possible valid wall moves verified.
+04-28 15:30:07 Engine Processing move #43
+04-28 15:30:07 Engine Getting move from player 3
+04-28 15:30:07 Engine Validating move: PlayerMove [Piece: start=[0, 5], end=[0, 7], playerId=3]
+04-28 15:30:08 Engine Move validated. Notifying other players
+04-28 15:30:08 Engine Notifying player 1 of last move
+04-28 15:30:08 Engine Notifying player 2 of last move
+04-28 15:30:08 Engine Notifying player 3 of last move
+04-28 15:30:08 Engine Notifying player 4 of last move
+04-28 15:30:09 Engine Finished processing player 3's move
+04-28 15:30:09 Engine Checking all possible moves for player 1
+04-28 15:30:09 Engine All possible valid piece moves verified.
+04-28 15:30:09 Engine All possible valid wall moves verified.
+04-28 15:30:09 Engine Processing move #44
+04-28 15:30:09 Engine Getting move from player 4
+04-28 15:30:09 Engine Validating move: PlayerMove [Piece: start=[2, 2], end=[1, 2], playerId=4]
+04-28 15:30:10 Engine Move validated. Notifying other players
+04-28 15:30:10 Engine Notifying player 1 of last move
+04-28 15:30:10 Engine Notifying player 2 of last move
+04-28 15:30:10 Engine Notifying player 3 of last move
+04-28 15:30:10 Engine Notifying player 4 of last move
+04-28 15:30:10 Engine Finished processing player 4's move
+04-28 15:30:10 Engine Checking all possible moves for player 1
+04-28 15:30:10 Engine All possible valid piece moves verified.
+04-28 15:30:10 Engine All possible valid wall moves verified.
+04-28 15:30:10 Engine Processing move #45
+04-28 15:30:10 Engine Getting move from player 1
+04-28 15:30:10 Engine Validating move: PlayerMove [Piece: start=[5, 4], end=[4, 4], playerId=1]
+04-28 15:30:12 Engine Move validated. Notifying other players
+04-28 15:30:12 Engine Notifying player 1 of last move
+04-28 15:30:12 Engine Notifying player 2 of last move
+04-28 15:30:12 Engine Notifying player 3 of last move
+04-28 15:30:12 Engine Notifying player 4 of last move
+04-28 15:30:12 Engine Finished processing player 1's move
+04-28 15:30:12 Engine Checking all possible moves for player 1
+04-28 15:30:12 Engine All possible valid piece moves verified.
+04-28 15:30:12 Engine All possible valid wall moves verified.
+04-28 15:30:12 Engine Processing move #46
+04-28 15:30:12 Engine Getting move from player 2
+04-28 15:30:12 Engine Validating move: PlayerMove [Piece: start=[0, 6], end=[0, 8], playerId=2]
+04-28 15:30:13 Engine Move validated. Notifying other players
+04-28 15:30:13 Engine Notifying player 1 of last move
+04-28 15:30:13 Engine Notifying player 2 of last move
+04-28 15:30:13 Engine Notifying player 3 of last move
+04-28 15:30:13 Engine Notifying player 4 of last move
+04-28 15:30:13 Engine Finished processing player 2's move
+04-28 15:30:13 Engine Checking all possible moves for player 1
+04-28 15:30:13 Engine All possible valid piece moves verified.
+04-28 15:30:13 Engine All possible valid wall moves verified.
+04-28 15:30:13 Engine Processing move #47
+04-28 15:30:13 Engine Getting move from player 3
+04-28 15:30:14 Engine Validating move: PlayerMove [Piece: start=[0, 7], end=[1, 8], playerId=3]
+04-28 15:30:15 Engine Move validated. Notifying other players
+04-28 15:30:15 Engine Notifying player 1 of last move
+04-28 15:30:15 Engine Notifying player 2 of last move
+04-28 15:30:15 Engine Notifying player 3 of last move
+04-28 15:30:15 Engine Notifying player 4 of last move
+04-28 15:30:15 Engine Finished processing player 3's move
+04-28 15:30:15 Engine Game has ended
+04-28 15:30:15 Engine Functionality grade for all possible moves: 
+	 Piece moves: 96.62921348314607%
+	 Wall moves: 98.55029585798817%

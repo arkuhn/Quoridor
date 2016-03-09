@@ -1,0 +1,26 @@
+04-28 13:56:46 Engine Quoridor Java Client v1.0.10 by RIT CS Department starting up
+04-28 13:56:46 Engine Loading player DOMINOS
+04-28 13:56:46 Engine Loading player RandomPlayer
+04-28 13:56:46 Engine Loaded 2 players
+04-28 13:56:49 Engine Calling init() for player 1
+04-28 13:56:49 Engine Calling init() for player 2
+04-28 13:56:49 Model  GUI accessible at:
+https://games.cs.rit.edu/quoridorapi/gameview/animations.500/public.0565c134478745ef01d47416f644ac31f64effb2553fc9d98da43/gameid.21188/partone.0
+04-28 13:56:49 Engine Checking all possible moves for player 1
+04-28 13:56:49 Engine All possible valid piece moves verified.
+04-28 13:56:49 Engine All possible valid wall moves verified.
+04-28 13:56:49 Engine Processing move #1
+04-28 13:56:49 Engine Getting move from player 1
+04-28 13:56:49 Engine Validating move: PlayerMove [Wall: start=[8, 2], end=[8, 4], playerId=1]
+04-28 13:56:50 Engine Move validated. Notifying other players
+04-28 13:56:50 Engine Notifying player 1 of last move
+04-28 13:56:51 Engine Notifying player 2 of last move
+04-28 13:56:51 Engine Finished processing player 1's move
+04-28 13:56:51 Engine Checking all possible moves for player 1
+04-28 13:56:51 Engine All possible valid piece moves verified.
+04-28 13:56:51 Engine Error: The player's wall move set was incorrect.
+04-28 13:56:51 Engine Error: Missing wall moves: [PlayerMove [Wall: start=[6, 4], end=[8, 4], playerId=1], PlayerMove [Wall: start=[7, 4], end=[9, 4], playerId=1], PlayerMove [Wall: start=[7, 2], end=[9, 2], playerId=1], PlayerMove [Wall: start=[6, 3], end=[8, 3], playerId=1]]
+04-28 13:56:51 Engine Error: Extra wall moves: []
+04-28 13:56:51 Engine Processing move #2
+04-28 13:56:51 Engine Getting move from player 2
+04-28 13:56:51 Engine Validating move: PlayerMove [Wall: start=[4, 4], end=[4, 6], playerId=2]
